@@ -1,0 +1,16 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+body {
+    background: lightgray;
+    margin: 0;
+    font-size: 14px;
+}
